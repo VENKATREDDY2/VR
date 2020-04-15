@@ -1,5 +1,3 @@
-V BVCbbgfbcccdvsdvGRGFDGGGGGGGGGGGGGG
-MVR
 import java.util.Scanner;
 
 class CheckEvenOdd
